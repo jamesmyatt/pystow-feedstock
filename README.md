@@ -148,5 +148,4 @@ Feedstock Maintainers
 =====================
 
 * [@cthoyt](https://github.com/cthoyt/)
-* [@jamesmyatt](https://github.com/jamesmyatt/)
 
