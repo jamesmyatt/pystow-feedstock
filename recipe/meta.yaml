@@ -15,7 +15,7 @@ build:
 
 requirements:
   host:
-    - python {{ python_min }}
+    - python {{ python_min }}.*
     - pip
     - setuptools
   run:
@@ -26,7 +26,7 @@ requirements:
 
 test:
   requires:
-    - python {{ python_min }}
+    - python {{ python_min }}.*
     - pip
   imports:
     - pystow
